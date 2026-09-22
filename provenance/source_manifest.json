@@ -1,0 +1,190 @@
+{
+  "title": "Chemical order, neighborhood evolution and localized activity in Cu–Ta amorphous nanolaminates during vibration-assisted nanoscratching",
+  "files": [
+    {
+      "path": "checks/check_profile_definition.py",
+      "original_sha256": "886dc9d2f64321e91ae68c904dc1a609dc3190d3d6a40c93944b6a43625f8ab7",
+      "role": "portable reconstruction"
+    },
+    {
+      "path": "checks/check_revision.py",
+      "original_sha256": "46d88f0025b0cbe6dc2b03da4373a4585d0863e0eb307266f65631b87a1f7a46",
+      "role": "portable reconstruction"
+    },
+    {
+      "path": "checks/rebuild.py",
+      "original_sha256": "a3429c4a6a27397270a4875faf7a4d1ab1898f36cb8601dd0152f33957c15046",
+      "role": "portable reconstruction"
+    },
+    {
+      "path": "checks/rebuild_documents_reviewer2_20260921.py",
+      "original_sha256": "84d60685ec31b9514eb05e0b6cd5f71a3b723604f68748ac18d3c43baf365949",
+      "role": "portable reconstruction"
+    },
+    {
+      "path": "checks/rebuild_unloading_20260921.py",
+      "original_sha256": "44e50fd202689035610a7edad1beb66742f0b6c9cf83502577a212ad13c51eec",
+      "role": "portable reconstruction"
+    },
+    {
+      "path": "checks/reviewer2_audit_20260921.py",
+      "original_sha256": "4cbadfec48dd0783781400ccfe56be861c7e4cc95c42523520e640d50ccec61e",
+      "role": "portable reconstruction"
+    },
+    {
+      "path": "checks/reviewer2_extended_check_20260921.py",
+      "original_sha256": "38a8fd3cc1bec51317e1adf96dc947a90de9423ccfccf107514478ffa64aaf04",
+      "role": "portable reconstruction"
+    },
+    {
+      "path": "checks/verify_entry_20260922.py",
+      "original_sha256": "9b38cd53f0398b435cba0e434a03025543899cc665339404f5fbf2a5fbea358f",
+      "role": "portable reconstruction"
+    },
+    {
+      "path": "source_reference/render_loading_actual.py",
+      "original_sha256": "038331c23dfebadac29adb89668d0d6a0b83e8d5c0587049faca36f5eb15e940",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/render_illustrative_evidence.py",
+      "original_sha256": "4ef89201c32b5cbbb963b4e45dde4e8b0a233859eac27b881f533b319cd00bab",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/render_ovito_views.py",
+      "original_sha256": "3cfebb5250117d187751552c22b6fdfec12a1874426de1c219a0dc3831f19f42",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/audit_sources.py",
+      "original_sha256": "4301ddda5cb5a4c9190ab06395e5e0e0f12dc6c57bdfe23461f76d2dfbe64ce7",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/atomic_analysis.py",
+      "original_sha256": "c6c96b890ed8d2e7f931b763e4747737e2d2736a3401c507fc3becd72736aca4",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/render_cluster_sequence.py",
+      "original_sha256": "748c0e7db4480190e42acf93ff7b093e4521afe587ea08b14b824bdddd7d5028",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/render_fullfield_activity.py",
+      "original_sha256": "6ce9e7b6f5077e4e87bbd919be9a42eda1091927b7d324e17b357d6b520c42ae",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/rebuild_selected_evidence.py",
+      "original_sha256": "d56cdac69e204e64f4ddd992e9faeabfc1fdfa784e9c4d83bd8eb559d9b17f92",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/rebuild_material_spatial.py",
+      "original_sha256": "0d58ae27d8c161c5e73d5b2ffc7f3026eab63ed4fa105f29f28f856b741ecdd6",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/preparation_audit.py",
+      "original_sha256": "fc8a14da0557c624f60b484e961d9badc717c1cf3a3c3377f0b91a317ec5580e",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/reviewer_controls.py",
+      "original_sha256": "47976c18bcd1d697ec3101fadb6ce6d9e4a9db32e5a1a844ad98463ba3a05a44",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/horizontal_tables.py",
+      "original_sha256": "e6ecb3eb04122900b70fd97365b8017e017239e935394fbb0ede3858eaf7d09a",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/table_presentation.py",
+      "original_sha256": "6799867d4af567c2bd5989734e51ad8b74b38695a885f8de57aaee8fb905a358",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/cluster_sequence.py",
+      "original_sha256": "3971bbd410c8662e0a895b0c675c72a1fe07e20eedc31b44aa7a5ecf95a6a7a2",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/fullfield_activity.py",
+      "original_sha256": "79c4fc8966557c309bd7c3437b7d946ab2d09a1b9c18522e5be3dbdffee704fe",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/analyze_existing_controls.py",
+      "original_sha256": "a47fcdba5e72cd1110119bfb4f8e8a2a7b4f6f26452672fc23ffcc73c9c3265f",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/review_followup.py",
+      "original_sha256": "fdd6b2e09311110fced36b327a1f884b4c0942df21188179231e544f54d7ed76",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/contact_followup.py",
+      "original_sha256": "f6dab105cb7aed66ac016b340c339de9cb5fa47d31a19079709e796184d49f9f",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/cycle_increment.py",
+      "original_sha256": "a31d5d9326b4d5dc1dbcf5c823af4188b1e46e83902833804ad6ca2d0dbbfea7",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/cycle_structure.py",
+      "original_sha256": "5e4ce665a7ba03e104e2324e9f2cc59e867e10839668c587a2d53d8478b0a6eb",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/dynamic_order_control.py",
+      "original_sha256": "82b27889cbf3090e33a91fa139e84e5cddeed336096154ce7d693765ba6e4d1e",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/audit_entry_20260922.py",
+      "original_sha256": "c5b9ffbd764b6068d3fca97acfb952c575564113e9369ad4f89090ad1f59bbb9",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/analyze_unloading_20260921.py",
+      "original_sha256": "5bd752a026aaf011d954e4f361bc3a9e4bfe230bfb3bbd7a11afaa521ca831cf",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/material_profile_check.py",
+      "original_sha256": "182afb7127754fa9b64e5b4bd1514a20724b92b72eed5626f53ac17ef63a8c0c",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/interval_evidence.py",
+      "original_sha256": "e84b43dbfa117696a43d33e4293f1935d6f1746e858d50943324a3bce874e401",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/reviewer2_local_20260921.py",
+      "original_sha256": "f25597055f44de054358695ae43b5985db545cf2593851ce17161e0106fbf47e",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/reviewer2_audit_20260921.py",
+      "original_sha256": "4cbadfec48dd0783781400ccfe56be861c7e4cc95c42523520e640d50ccec61e",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/review_20260919_analysis.py",
+      "original_sha256": "bc0fd0d95ef37ddd506ee6a11c79ab2687e2b2c22e96eaf40742fb5626fb95b4",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/edge_spatial_check.py",
+      "original_sha256": "f53f5e5b688caf8ed5fe80a2d8bdd01d41a2a4534f190fd13ed3b813cee13793",
+      "role": "author extraction/rendering provenance; original workspace dependencies required"
+    }
+  ]
+}

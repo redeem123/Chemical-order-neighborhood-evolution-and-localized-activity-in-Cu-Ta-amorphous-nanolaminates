@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the supporting dataset and this code version when reusing the analysis."
+title: "Chemical order, neighborhood evolution and localized activity in Cu–Ta amorphous nanolaminates during vibration-assisted nanoscratching"
+type: software
+version: 1.0.0
+date-released: 2026-09-22
+license: MIT
+authors:
+  - family-names: Ngo
+    given-names: Viet-Anh
+    affiliation: "School of Mechanical Engineering, Hanoi University of Science and Technology, Hanoi, Viet Nam"
+  - family-names: Nguyen
+    given-names: Thanh-Huan
+    affiliation: "Faculty of Mechanical Engineering, University of Economics - Technology for Industries, Hanoi City, Vietnam"
+  - family-names: Nguyen
+    given-names: Duc-Toan
+    affiliation: "School of Mechanical Engineering, Hanoi University of Science and Technology, Hanoi, Viet Nam"
+repository-code: "https://github.com/redeem123/Chemical-order-neighborhood-evolution-and-localized-activity-in-Cu-Ta-amorphous-nanolaminates"
