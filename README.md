@@ -2,7 +2,7 @@
 
 Analysis and bounded numerical reconstruction for the manuscript by **Viet-Anh
 Ngo, Thanh-Huan Nguyen and Duc-Toan Nguyen**. This repository contains code only;
-the versioned supporting dataset is deposited separately. It does not contain
+the versioned supporting dataset is prepared for a separate deposit. It does not contain
 third-party papers, confidential reviews, full MD trajectories or credentials.
 
 ## Reproduce the supporting numerical results
@@ -44,6 +44,14 @@ starts MD, contacts a cluster, downloads data or uploads results.
 Run one stage with `--stage core` or any stage name in the table. `--stage hashes`
 checks dataset identity only. An existing output folder is refused to preserve
 previous checks.
+
+All eight stages passed on 22 September 2026 both on the original reduced
+dataset and on a fresh GitHub clone using all 958 files extracted from the
+lossless container. Every extracted file matched its original SHA-256.
+`provenance/verification.json` and
+`provenance/verification_fresh_clone.json` record these author-run checks.
+The tested environment is pinned in `requirements-tested.txt`; these results
+do not imply that arbitrary dependency versions have been tested.
 
 ## Boundaries and adverse evidence
 

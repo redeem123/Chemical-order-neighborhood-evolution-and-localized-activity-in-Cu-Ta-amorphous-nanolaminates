@@ -1,0 +1,47 @@
+{
+  "started_utc": "2026-09-22T03:48:14.780848+00:00",
+  "scope": "Author-run numerical reconstruction, not independent physical validation",
+  "stages": {
+    "core": {
+      "returncode": 0,
+      "seconds": 76.392,
+      "log": "core.log"
+    },
+    "labels": {
+      "returncode": 0,
+      "seconds": 82.762,
+      "log": "labels.log"
+    },
+    "profiles": {
+      "returncode": 0,
+      "seconds": 62.353,
+      "log": "profiles.log"
+    },
+    "context": {
+      "returncode": 0,
+      "seconds": 0.115,
+      "log": "context.log"
+    },
+    "accounting": {
+      "returncode": 0,
+      "seconds": 5.45,
+      "log": "accounting.log"
+    },
+    "extended": {
+      "returncode": 0,
+      "seconds": 0.797,
+      "log": "extended.log"
+    },
+    "unloading": {
+      "returncode": 0,
+      "seconds": 10.525,
+      "log": "unloading.log"
+    },
+    "entry": {
+      "returncode": 0,
+      "seconds": 0.236,
+      "log": "entry.log"
+    }
+  },
+  "status": "passed"
+}
