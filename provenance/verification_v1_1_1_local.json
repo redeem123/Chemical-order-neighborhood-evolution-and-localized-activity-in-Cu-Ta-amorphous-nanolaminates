@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-23",
+  "dataset_version": "1.1.1",
+  "dataset_manifest_sha256": "7b805711e19a08608ed687c9a0c00e4d9175a65a951726d8eebd97c22cdaae3f",
+  "container_sha256": "76a44538b5e1d0ea8d6e0871c90b7f3a78f0de2bb3e7b87a10de0b1c66903480",
+  "clean_check_sha256": "e3bb0129dc6e62b41c4a38c1de51cec876e65b4cce44305fbcf5ab1ee0739cf8",
+  "status": "author-run passed; not independent physical validation",
+  "indexed_files": 979,
+  "evidence_payloads_changed_from_v1_1_0": false,
+  "documentation_payloads_changed": [
+    "FILE_TO_RESULT_INDEX.md",
+    "README.md"
+  ],
+  "all_stages_passed": [
+    "core",
+    "labels",
+    "profiles",
+    "context",
+    "accounting",
+    "extended",
+    "unloading",
+    "entry",
+    "clean-r03"
+  ],
+  "hdf5_roundtrip_files_sha256_passed": 979,
+  "roundtrip_clean_r03_passed": true,
+  "clean_r03_structural_reconstruction": {
+    "withdrawal": {
+      "selected_frames": 5,
+      "centers": 3161,
+      "max_absolute_observable_error": 7.105427357601002e-15,
+      "observables": "first-shell retention, mean-normalized non-affinity, observed Ta-Ta Q/M/alpha"
+    },
+    "adhesion": {
+      "selected_frames": 9,
+      "centers": 3161,
+      "max_absolute_observable_error": 0.0,
+      "observables": "initial/cycle retention, observed Cu-rich Ta-Ta alpha, endpoint non-affinity"
+    }
+  },
+  "not_recalculated_in_clean_r03_stage": [
+    "conditional-label ensembles",
+    "interface widths",
+    "full trajectories or physical convergence"
+  ]
+}
