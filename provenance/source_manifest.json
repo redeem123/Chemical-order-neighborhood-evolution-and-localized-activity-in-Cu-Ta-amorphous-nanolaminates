@@ -1,5 +1,5 @@
 {
-  "title": "Chemical order, neighborhood evolution and localized activity in Cu–Ta amorphous nanolaminates during vibration-assisted nanoscratching",
+  "title": "Atomic rearrangement and preparation-dependent chemical-order response in amorphous Cu–Ta nanolaminates under vibration-assisted nanoscratching",
   "files": [
     {
       "path": "checks/check_profile_definition.py",
@@ -185,6 +185,21 @@
       "path": "source_reference/edge_spatial_check.py",
       "original_sha256": "f53f5e5b688caf8ed5fe80a2d8bdd01d41a2a4534f190fd13ed3b813cee13793",
       "role": "author extraction/rendering provenance; original workspace dependencies required"
+    },
+    {
+      "path": "source_reference/compare_clean_unload_20260923.py",
+      "original_sha256": "bc2503def4225177323e43d9dcdd9c11e7125c1e2361465ac61b40a4838064f3",
+      "role": "clean R03 author structural analysis; original workspace and full reference required"
+    },
+    {
+      "path": "source_reference/compare_clean_adhesion_20260923.py",
+      "original_sha256": "6fb38c104c9ac9bd424cf268145cc10f224a8b465453c89317db32af42b6f2fb",
+      "role": "clean R03 author contact-control analysis; original workspace and full reference required"
+    },
+    {
+      "path": "checks/verify_clean_r03.py",
+      "original_sha256": "2d58bdf8f3bca53d3029b935ca6bbbf360b28bd8823ad21bc628f4eb11d36750",
+      "role": "portable selected-source and force-window verification"
     }
   ]
 }

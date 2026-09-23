@@ -10,7 +10,7 @@ import sys
 import time
 
 ROOT = Path(__file__).resolve().parent
-STAGES = ('core', 'labels', 'profiles', 'context', 'accounting', 'extended', 'unloading', 'entry')
+STAGES = ('core', 'labels', 'profiles', 'context', 'accounting', 'extended', 'unloading', 'entry', 'clean-r03')
 
 
 def main():
@@ -39,6 +39,7 @@ def main():
         'extended': [str(check/'reviewer2_extended_check_20260921.py'), '--evidence', str(evidence), '--review', str(evidence/'reviewer2_20260921')],
         'unloading': [str(check/'rebuild_unloading_20260921.py'), '--data', str(evidence/'unloading_20260921'), '--output', str(out/'unloading'), '--verify'],
         'entry': [str(check/'verify_entry_20260922.py'), '--data', str(evidence/'entry_20260922'), '--output', str(out/'entry.json')],
+        'clean-r03': [str(check/'verify_clean_r03.py'), '--data', str(data), '--output', str(out/'clean-r03.json')],
     }
     report = {'started_utc': datetime.datetime.now(datetime.timezone.utc).isoformat(),
               'scope': 'Author-run numerical reconstruction, not independent physical validation', 'stages': {}}

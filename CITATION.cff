@@ -1,9 +1,8 @@
 cff-version: 1.2.0
 message: "Please cite the supporting dataset and this code version when reusing the analysis."
-title: "Chemical order, neighborhood evolution and localized activity in Cu–Ta amorphous nanolaminates during vibration-assisted nanoscratching"
+title: "Atomic rearrangement and preparation-dependent chemical-order response in amorphous Cu–Ta nanolaminates under vibration-assisted nanoscratching"
 type: software
-version: 1.0.0
-date-released: 2026-09-22
+version: 1.1.0
 license: MIT
 authors:
   - family-names: Ngo
